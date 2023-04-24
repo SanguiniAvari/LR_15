@@ -1,4 +1,4 @@
-package com.example.lr_15.model;
+package com.example.ple.model;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.NotBlank;

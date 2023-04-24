@@ -1,4 +1,4 @@
-package com.example.lr_15;
+package com.example.ple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
